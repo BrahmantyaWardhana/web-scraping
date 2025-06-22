@@ -10,9 +10,9 @@ Scraping meat-seafod information data from a [grocery store](https://www.jewelos
 
 [x] deal with pagination on webpage
 
-[] try to get more than just name of items (get mult variables)
+[x] prep data for analysis or visualization (put into df and possibly import to csv)
 
-[] prep data for analysis or visualization (put into df and possibly import to csv)
+[] try to get more than just name of items (get mult variables)
 
 [] gather all relevant data for analysis
 
