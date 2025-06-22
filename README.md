@@ -12,8 +12,6 @@ Scraping meat-seafod information data from a [grocery store](https://www.jewelos
 
 [x] prep data for analysis or visualization (put into df and possibly import to csv)
 
-[] try to get more than just name of items (get mult variables)
-
-[] gather all relevant data for analysis
+[] get data periiodically and date them
 
 [] create visualization of the data
